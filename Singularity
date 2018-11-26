@@ -30,6 +30,7 @@ mkdir -p /mnt/research
 mkdir -p /mnt/dfs17
 mkdir -p /mnt/ffs17
 mkdir -p /mnt/local
+mkdir -p /mnt/gs18
 mkdir -p /mnt/ls15
 mkdir -p /opt/software
 
